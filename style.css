@@ -1,0 +1,14 @@
+.box{
+    border: solid yellow 10px;
+    width: 50px;
+    height: 30px;
+}
+.a{
+    border: red 2px solid;
+}
+.b{
+    border: purple solid 5px;
+}
+.big{
+    background-color: aliceblue;
+}
